@@ -153,6 +153,10 @@ sources:
 ```
 ## Changelog
 
+### v0.18.1
+#### New Features:
+- Adds support down to SQL Server 2012
+
 ### v0.18.0.1
 - pull AD auth directly from `dbt-sqlserver` (https://github.com/swanderz/dbt-synapse/pull/13)
 - hotfix for broken `create_view()` macro (https://github.com/swanderz/dbt-synapse/pull/14)
